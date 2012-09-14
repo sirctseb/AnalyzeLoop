@@ -1,4 +1,4 @@
-//import './part.dart';
+import './part.dart';
 
 void main() {
 }
